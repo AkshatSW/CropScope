@@ -1,4 +1,5 @@
 # CropScope
+Plant diseases can lead to massive crop losses, and detecting them early on is crucial for farmers. However, identifying plant diseases can be a challenging task, even for experienced farmers. As a result, we want to create a software solution that can help farmers identify plant diseases quickly and accurately, which will ultimately lead to better crop yields and a more sustainable food system.
 
 ## Problem Statement
 
