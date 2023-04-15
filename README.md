@@ -22,7 +22,7 @@ CropScope is developed using a range of cutting-edge technologies. The following
 - **ReactJS** for developing the user interface.
 - **Postman** for testing the API endpoints.
 - **Docker** for containerizing the application.
-- **FastAPI** for developing the RESTful API.
+- **FastAPI** for developing the model.
 
 ## How to Run
 
