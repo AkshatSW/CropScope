@@ -40,4 +40,4 @@ To run CropScope on your local machine, follow the steps below:
 
 ## Conclusion
 
-CropScope is a powerful tool that can help farmers detect plant diseases quickly and accurately. By providing farmers with recommendations for treatment, we hope to help them save their crops and contribute to a more sustainable food system. If you have any questions or suggestions, please feel free to contact us.
+CropScope is a powerful tool that can help farmers detect plant diseases quickly and accurately. By providing farmers with recommendations for treatment, we hope to help them save their crops and contribute to a more sustainable food system. 
