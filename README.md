@@ -1,5 +1,3 @@
-# SolvingForIndiaHackathon
-
 # CropScope
 
 ## Problem Statement
